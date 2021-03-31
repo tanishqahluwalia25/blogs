@@ -1,0 +1,40 @@
+html>body.body{
+    background: white;
+}
+
+html{
+    /* font-size: 10px; */
+    scroll-behavior: smooth;
+}
+.header{
+    height: 90vh;
+    width: 100%;
+    position: relative;
+}
+.header{
+    background-image:linear-gradient(45deg, rgba(0, 217, 255, 0.384), rgba(255, 0, 140, 0.37)), url("https://images.unsplash.com/photo-1599978559047-8e83c06e57e2?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=946&q=80");
+    background-repeat: no-repeat;
+    border-image-width: 100%;
+    background-size: cover;
+    
+}
+
+.hero h3{
+    text-align: center;
+    width: 100%;
+    font-size: 5rem;
+}
+
+.hero>p{
+    text-align: center;
+    width: 100%;
+    font-size: 1rem;
+}
+
+
+.hero{
+    z-index: -5;
+}
+.header{
+    z-index: -10;
+}
