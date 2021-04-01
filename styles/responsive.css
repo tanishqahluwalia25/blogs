@@ -1,0 +1,9 @@
+@media screen and (max-width:1000px){
+    html{
+        scroll-snap-type: none !important;
+    }
+    
+    .hero h3{
+        font-size: 3rem;
+    }
+}
