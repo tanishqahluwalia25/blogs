@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\fake news"
+		},
+		{
+			"path": "..\\..\\Dump\\R"
+		},
+		{
+			"path": "..\\..\\Grip_your_Life"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "blogs"
+	}
+}
