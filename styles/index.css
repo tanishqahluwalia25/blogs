@@ -44,8 +44,8 @@ z-index: 1;;
     scroll-snap-align: start;
 }
 
-.sect-1 {
-
+#navbar{
+    scroll-snap-align: start;
 }
 
 
