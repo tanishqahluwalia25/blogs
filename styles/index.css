@@ -6,7 +6,7 @@ html{
     /* font-size: 10px; */
     scroll-behavior: smooth;
 
-  scroll-snap-type: y proximity;
+  scroll-snap-type: y mandatory;
 }
 .header{
     height: 90vh;
