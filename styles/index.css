@@ -20,7 +20,6 @@ html{
     background-size: cover;
     background-repeat: no-repeat;
     animation-iteration-count: infinite;
-    
 }
 
 .hero h3{
@@ -53,6 +52,14 @@ z-index: 1;;
 .read-more{
     z-index: 35;
     bottom: 0px;
+}
+
+.down-btn:hover{
+    font-size: 4rem;
+    text-decoration: none;
+    font-weight: 100;
+    background: rgba(0, 0, 0, 0.199);
+    padding: 0;
 }
 @keyframes header-bg{
 
